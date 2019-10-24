@@ -4,8 +4,11 @@ public class New {
   private int level;
   
   public void name() {
-	  System.out.println("東俊輔");
-  }
+
+	  System.out.println("ikedariho");
+	
+}
+  
   
   
 public String getCheracter() {
@@ -22,3 +25,4 @@ public void setLevel(int level) {
 }
   
 }
+
